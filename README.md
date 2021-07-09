@@ -2,7 +2,7 @@
 Source code used in our paper "Uncertainty quantification of regional cardiac tissue properties in Arrhythmogenic Cardiomyopathy using adaptive multiple importance sampling"
 
 Nick van Osta1*, Feddo P Kirkels2*, Tim van Loon1, Tijmen Koopsen1, Aurore Lyon1, Roel Meiburg1, Wouter Huberts1, Maarten J Cramer2, Tammo Delhaas1, Kristina H Haugaa3, Arco J Teske2, Joost Lumens1
-
+Cancel changes
 *NvO and FK contributed equally.
 
 1. Department of Biomedical Engineering, Cardiovascular Research Institute Maastricht, Maastricht University, Maastricht, The Netherlands.
@@ -10,8 +10,8 @@ Nick van Osta1*, Feddo P Kirkels2*, Tim van Loon1, Tijmen Koopsen1, Aurore Lyon1
 3. Dept of Cardiology, Oslo University Hospital and University of Oslo, Norway
 
 # Code 
-Run main.py to create digital twins of the virtual patients
-Run postprocessing_validation_virtual.py to view strain and estimated tissue properties
+Run main.py to create digital twins of the virtual patients. 
+Run postprocessing_validation_virtual.py to view strain and estimated tissue properties. 
 
 # Abstract
 
