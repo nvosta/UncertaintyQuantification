@@ -9,6 +9,10 @@ Nick van Osta1*, Feddo P Kirkels2*, Tim van Loon1, Tijmen Koopsen1, Aurore Lyon1
 2. Department of Cardiology, division Heart and Lungs, University Medical Center Utrecht, Utrecht, the Netherlands.
 3. Dept of Cardiology, Oslo University Hospital and University of Oslo, Norway
 
+# Code 
+Run main.py to create digital twins of the virtual patients
+Run postprocessing_validation_virtual.py to view strain and estimated tissue properties
+
 # Abstract
 
 ## Introduction
